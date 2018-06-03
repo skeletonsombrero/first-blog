@@ -1,9 +1,10 @@
 h1 a {
-    color: #FCA205;
+    color: #FCA204;
     font-family: 'Lobster';
 }
+<a href="https://en.wikipedia.org/wiki/Django"
 body {
-    padding-left: 14.px;
+    padding-left: 15px;
 }
 .page-header {
     background-color: #ff9400;
